@@ -1,4 +1,4 @@
-# Life Cycle of a Machine Learning Project
+# CreditCardFraudDetection
 
 ## Steps in a Machine Learning Project
 
